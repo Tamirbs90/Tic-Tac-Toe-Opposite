@@ -1,0 +1,15 @@
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\bin\Debug\GameUI.exe.config
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.csprojResolveAssemblyReference.cache
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.GameForm.resources
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.LoginForm.resources
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.csproj.GenerateResource.Cache
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\bin\Debug\GameUI.exe
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\bin\Debug\GameUI.pdb
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\bin\Debug\GameLogic.dll
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\bin\Debug\GameLogic.pdb
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.exe
+c:\users\tamir\documents\visual studio 2015\Projects\C17 Ex05 Tamir 201508413 Yaacov 32352016\GameUI\obj\Debug\GameUI.pdb
+C:\Users\Tamir\Desktop\C#\C17 Ex05 Tamir  Ben simon 201508413 Yaacov Oren 32352016\GameUI\bin\Debug\GameUI.exe.config
+C:\Users\Tamir\Desktop\C#\C17 Ex05 Tamir  Ben simon 201508413 Yaacov Oren 32352016\GameUI\obj\Debug\GameUI.exe
+C:\Users\Tamir\Desktop\C#\C17 Ex05 Tamir  Ben simon 201508413 Yaacov Oren 32352016\GameUI\obj\Debug\GameUI.pdb
